@@ -1,4 +1,5 @@
 # Bank-Application
+This is a basic banking python script that performs following operations:
 '''1)function to add new customer in list of dictionary 
 2)function to check password standard 
 3)function encrypts password 
